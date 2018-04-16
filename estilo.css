@@ -116,9 +116,10 @@ video{
 .primera p{	font-size:0.1em;
 	letter-spacing:0.05em;
 	padding-left: 2%;
-	color:rgba(0,0,255,100);
+	color:rgba(255,255,255,100);
 	padding-bottom: 2%;
-	font-size:0.5em;}
+	font-size:0.5em;
+font-weight:400;}
 
 .primera address{ font-size:0.9em; font-style:normal;text-align:center;color:rgba(0,0,255,100);}
 
